@@ -1,0 +1,13 @@
+{
+  "name": "git-practice",
+  "version": "1.0.0",
+  "description": "Проект для изучения Git и GitHub",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "node tests/test.js",
+    "start": "node src/main.js"
+  },
+  "keywords": ["git", "github", "learning"],
+  "author": "Arthur Leuski",
+  "license": "MIT"
+}
